@@ -1,0 +1,10 @@
+
+.vs/2020_AON03/v16/
+
+.vs/
+
+backend/research_project_backend/research_project_backend/bin/Debug/netcoreapp3.1/
+
+*.cache
+
+*.dll

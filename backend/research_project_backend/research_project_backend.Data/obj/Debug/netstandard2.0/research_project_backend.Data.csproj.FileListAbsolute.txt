@@ -1,0 +1,5 @@
+C:\Users\Joost\source\2020_AON03-Development\backend\2020_AON03-Backend-Database\backend\research_project_backend\research_project_backend.Data\bin\Debug\netstandard2.0\research_project_backend.Data.deps.json
+C:\Users\Joost\source\2020_AON03-Development\backend\2020_AON03-Backend-Database\backend\research_project_backend\research_project_backend.Data\bin\Debug\netstandard2.0\research_project_backend.Data.dll
+C:\Users\Joost\source\2020_AON03-Development\backend\2020_AON03-Backend-Database\backend\research_project_backend\research_project_backend.Data\obj\Debug\netstandard2.0\research_project_backend.Data.csprojAssemblyReference.cache
+C:\Users\Joost\source\2020_AON03-Development\backend\2020_AON03-Backend-Database\backend\research_project_backend\research_project_backend.Data\obj\Debug\netstandard2.0\research_project_backend.Data.AssemblyInfoInputs.cache
+C:\Users\Joost\source\2020_AON03-Development\backend\2020_AON03-Backend-Database\backend\research_project_backend\research_project_backend.Data\obj\Debug\netstandard2.0\research_project_backend.Data.AssemblyInfo.cs
